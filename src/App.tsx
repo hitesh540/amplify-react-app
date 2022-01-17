@@ -18,7 +18,7 @@ function App() {
         <h1>My App Content</h1>
       </header>
     </div>
-
+//
     //  <Authenticator>
     //   {({ signOut }) => (
     //     <div className="App">
